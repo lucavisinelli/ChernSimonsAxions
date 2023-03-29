@@ -7,7 +7,7 @@ The code has been written and maintained by Luca Visinelli (SJTU). For any inqui
 
 ### References
 The code has been used to produce the results presented in:
-* G. Lambiase, L. Mastrototaro, L. Visinelli, [JCAP 2301, 011 (2023)](https://doi.org/10.1088/1475-7516/2023/01/011), [[2207.08067]](https://arxiv.org/abs/2207.08067).
+* G. Lambiase, L. Mastrototaro, L. Visinelli, [JCAP 2301, 011 (2023)](https://doi.org/10.1088/1475-7516/2023/01/011) [[2207.08067]](https://arxiv.org/abs/2207.08067).
 
 If you use this code, please cite the associated paper above.
 
